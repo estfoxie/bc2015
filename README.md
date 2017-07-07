@@ -1,0 +1,1 @@
+# [Start Bootstrap](http://startbootstrap.com/) - [Business Casual](http://startbootstrap.com/template-overviews/business-casual/) was used to build the bc2015.me site for the Baltic Chmaionship 2015 at Tartu RC Racetrack
